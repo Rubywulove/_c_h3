@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World\n");
+    printf("love you\n");
+    printf("happy day\n");
+
+    return 0;
+}
